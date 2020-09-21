@@ -5,7 +5,7 @@ class Person
   
   def initialize(properties)
     
-    properties.each 
+    properties.each {||,||}
     
   end 
   
